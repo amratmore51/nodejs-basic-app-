@@ -2,7 +2,7 @@ version: 0.2
 phases:
  build:
  commands:
- - npm i --save # Install dependencies
+ 
 artifacts:
- files:
+files:
  - '**/*' # Include all files for the build artifact
